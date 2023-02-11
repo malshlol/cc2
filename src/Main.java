@@ -11,7 +11,7 @@ public class Main {
     }
 
     public static void task1() {
-        System.out.println("Задача 1");
+        System.out.println("Задача 11");
         int contribution = 15000;
         int total = 0;
         int ss = 2459000;
